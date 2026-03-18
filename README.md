@@ -15,7 +15,7 @@ I like to build things for fun, if you want to know more about me check out my p
 🐧 Linux • Git • GitHub
 
 ## 🚀 Featured Work
-- :pager: ** Devlop: what I'm currently working on, which is bascially an tool that allows devs to document their journey of building something more conviently.
+- :pager: Devlop: what I'm currently working on, which is bascially an tool that allows devs to document their journey of building something more conviently.
 - 🤖 **RISC-V CPU (SystemVerilog):** single-cycle RV32I CPU.
 - 📱 **Joinex (SwiftUI + Supabase):** sports networking app with active beta usage.
 - ⛵ **UBC Sailbot Mast Encoder (STM32):** UART + DMA + FDCAN production encoder interface.
